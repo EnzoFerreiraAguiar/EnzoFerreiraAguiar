@@ -8,6 +8,11 @@
 - Sempre buscando aprender novas tecnologias e linguagens.
 
 
+## Stats
+![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Atualmente estou estudando
 <div style="display align inline_block"><br/>
@@ -27,10 +32,6 @@
     <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-
-## Stats
-![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
