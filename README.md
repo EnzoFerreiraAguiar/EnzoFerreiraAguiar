@@ -9,7 +9,7 @@
 
 ##
 
-### Atualmente estou estudando
+## Atualmente estou estudando
 
 <div style="display align inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ##
 
-### Tecnologias que tenho conhecimento
+## Tecnologias que tenho conhecimento
 
 <div style="display align inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -31,7 +31,7 @@
 
 ##
 
-### Stats
+## Stats
 ![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
