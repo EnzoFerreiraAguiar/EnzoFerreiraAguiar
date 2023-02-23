@@ -7,7 +7,7 @@
 
 - Sempre buscando aprender novas tecnologias e linguagens.
 
-##
+
 
 ## Atualmente estou estudando
 
