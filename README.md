@@ -33,7 +33,7 @@
 
 ### Stats
 ![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
