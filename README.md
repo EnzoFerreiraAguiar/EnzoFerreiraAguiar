@@ -25,25 +25,18 @@
 
 
 ## Tecnologias que tenho conhecimento
-
+                                                                                                                           
 <div style="display align inline_block"><br/>
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt = "Enzo-html" height="30" width ="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img align="center" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 </div>
-
-
-
-
-
+                                                                               
+                                                                                                                                                                                               
+                                                                                                                       
 ## Como entrar em contato comigo
 
 [![LinkedIn](https://icons8.com.br/icon/13930/linkedin)](https://www.linkedin.com/in/enzo-ferreira-aguiar-/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzoferreiraaaguiar@outlook.com.br)
-
-
-
-
-
 
