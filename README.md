@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Atualmente estou estudando: 
+### 💻 Atualmente estou estudando: 
 
 <div style="display align inline_block"><br/>
   <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,7 +23,7 @@
 </div>
    
 
-### Tecnologias que tenho conhecimento: 
+### ⚒️ Tecnologias que tenho conhecimento: 
 
 <div style="display align inline_block"><br/>
   <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
