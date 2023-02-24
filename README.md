@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ### Atualmente estou estudando
 
 
@@ -26,7 +25,6 @@
 </div>
    
 
-
 ### Tecnologias que tenho conhecimento
 
 
@@ -36,9 +34,7 @@
   <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"" />  
 </div>
-                                                                                                                      
-                                                                                                                                                                                               
-                                                                                                                       
+                                                                                      
 ### Como entrar em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ferreira-aguiar-/)
