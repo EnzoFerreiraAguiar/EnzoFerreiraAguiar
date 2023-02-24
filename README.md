@@ -17,19 +17,19 @@
 ### 💻 Atualmente estou estudando: 
 
 <div style="display align inline_block"><br/>
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
 </div>
    
 
 ### ⚒️ Tecnologias que tenho conhecimento: 
 
 <div style="display align inline_block"><br/>
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img align="center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"" />  
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"" />  
 </div>
                                                                                       
 ### Como entrar em contato comigo: 
