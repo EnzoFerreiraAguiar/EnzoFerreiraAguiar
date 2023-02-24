@@ -38,7 +38,7 @@
 
 ## Como entrar em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ferreira-aguiar-/)
+[![LinkedIn](https://icons8.com.br/icon/13930/linkedin)](https://www.linkedin.com/in/enzo-ferreira-aguiar-/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzoferreiraaaguiar@outlook.com.br)
 
 
