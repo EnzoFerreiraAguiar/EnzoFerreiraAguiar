@@ -7,16 +7,17 @@
 
 - Sempre buscando aprender novas tecnologias e linguagens.
 
+### Badges
 
-## Badges
+<b>My GitHub Stats</b>
 
-### GitHub Stats
+<a href="http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="EnzoFerreiraAguiar's GitHub stats" /></a>
 
-![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoFerreiraAguiar&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=EnzoFerreiraAguiar&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/EnzoFerreiraAguiar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 💻 Atualmente estou estudando
 
