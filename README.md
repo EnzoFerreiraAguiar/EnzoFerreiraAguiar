@@ -1,39 +1,29 @@
-![Banner_GitHub](https://github.com/EnzoFerreiraAguiar/EnzoFerreiraAguiar/blob/main/Banner_GitHub.jpg)
+<h1 align="center">Hi 👋, I'm Enzo</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on [oo](oo)
 
-### Oi! Eu sou o Enzo Ferreira Aguiar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+- 🌱 I’m currently learning **ooo**
 
-- Estudante de Análise e Desenvolvimento de Sistemas.
+- 👯 I’m looking to collaborate on [oo](oo)
 
-- Sempre buscando aprender novas tecnologias e linguagens.
+- 🤝 I’m looking for help with [oo](oo)
 
+- 👨‍💻 All of my projects are available at [oo](oo)
 
-### GitHub Stats
+- 📝 I regularly write articles on [ll](ll)
 
-![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **ooo**
 
+- 📫 How to reach me **oo**
 
-### 💻 Atualmente estou estudando
+- 📄 Know about my experiences [lll](lll)
 
-<div style="display align inline_block"><br/>
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-</div>
-   
+- ⚡ Fun fact **ll**
 
-### ⚒️ Tecnologias que tenho conhecimento
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div style="display align inline_block"><br/>
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />  
-</div>
-                                                                                      
-### Como entrar em contato comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ferreira-aguiar-/)
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzoferreiraaaguiar@outlook.com.br)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
