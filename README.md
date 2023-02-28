@@ -32,9 +32,9 @@
 
 <div style="display align inline_block"><br/>
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" />
-  <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />  
+  <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
+  <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />  
+  <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" />  
 </div>
                                                                                       
 ### Como entrar em contato comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
