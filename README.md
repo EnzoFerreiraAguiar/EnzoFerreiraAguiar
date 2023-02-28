@@ -41,4 +41,4 @@
 
  <a href="https://www.linkedin.com/in/enzo-ferreira-aguiar/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/1x/microsoft-outlook-2019--v2.png" height="32" /></a></p>
  
- <a href="mailto:enzoferreiraaaguiar@outlook.com.br" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/outlook.svg" width="32" height="32" /></a></p>
+ <a href="mailto:enzoferreiraaaguiar@outlook.com.br" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
