@@ -14,7 +14,7 @@
 
 ![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Enzo Ferreira Aguiar GitHub Readme Streak Stats]("https://github-readme-streak-stats.herokuapp.com/?user=EnzoFerreiraAguiar&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
+![Enzo Ferreira Aguiar GitHub Readme Streak Stats]("http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoFerreiraAguiar&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
 ![Enzo Ferreira Aguiar GitHub Readme Activity Graph]("https://github-readme-activity-graph.cyclic.app/graph?username=EnzoFerreiraAguiar&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph")
 
 ### 💻 Atualmente estou estudando
