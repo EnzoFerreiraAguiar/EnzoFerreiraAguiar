@@ -3,9 +3,9 @@
 
 ### Oi! Eu sou o Enzo Ferreira Aguiar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- Estudante de Análise e Desenvolvimento de Sistemas.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- Sempre buscando aprender novas tecnologias e linguagens.
+- 🚀 Sempre buscando aprender novas tecnologias e linguagens.
 
 ### Badges
 
