@@ -9,11 +9,7 @@
 
 
 ### GitHub Stats
-
 [![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar)](https://github.com/anuraghazra/github-readme-stats)
-
-![Enzo Ferreira Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 💻 Atualmente estou estudando
