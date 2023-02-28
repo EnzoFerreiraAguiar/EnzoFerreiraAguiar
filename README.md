@@ -39,7 +39,7 @@
                                                                                       
 ### Como entrar em contato comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
- <a href="https://www.linkedin.com/in/enzo-ferreira-aguiar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <a href="https://www.linkedin.com/in/enzo-ferreira-aguiar/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/768px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png?20210220193647" width="32" height="32" /></a></p>
  
   <a href="mailto:enzoferreiraaaguiar@outlook.com.br" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/outlook.svg" width="32" height="32" /></a></p>
 
