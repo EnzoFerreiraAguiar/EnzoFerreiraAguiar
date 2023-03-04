@@ -25,15 +25,15 @@
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" />
   <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" height= "55" width= "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
    
 
 ### ⚒️ Tecnologias que tenho conhecimento
 
 <div style="display align inline_block"><br/>
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height= "45" width= "55" src="https://img.icons8.com/color/256/mysql-logo.png" />
+  <img align="center" height= "55" width= "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height= "55" width= "65" src="https://img.icons8.com/color/256/mysql-logo.png" />
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />   
 </div>
                                                                                       
