@@ -7,7 +7,7 @@
 
 - 🚀 Sempre buscando aprender novas tecnologias e linguagens.
 
-### Badges
+# Badges
 
 <b>GitHub Stats</b>
 
