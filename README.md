@@ -15,7 +15,7 @@
 
 <a href="https://github.com/EnzoFerreiraAguiar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 
-### 🧠 Atualmente estou estudando
+## 🧠 Atualmente estou estudando
 
 <div style="display align inline_block"><br/>
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
@@ -24,7 +24,7 @@
 </div>
    
 
-### ⚒️ Tecnologias que tenho conhecimento
+## ⚒️ Tecnologias que tenho conhecimento
 
 <div style="display align inline_block"><br/>
   <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -32,7 +32,7 @@
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />   
 </div>
                                                                                       
-### Como entrar em contato comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Como entrar em contato comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/enzo-ferreira-aguiar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
