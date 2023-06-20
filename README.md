@@ -9,7 +9,7 @@
 
 # Badges
 
-<h2>GitHub Stats</h2>
+<h5>GitHub Stats</h5>
 
 <a href="http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-stats.vercel.app/api?username=EnzoFerreiraAguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
 
