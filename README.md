@@ -15,7 +15,7 @@
 
 <a href="http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoFerreiraAguiar&theme=dark&hide_border=false" /></a>
 
-<a href="https://github.com/EnzoFerreiraAguiar" align="left"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" /></a>
+<a href="https://github.com/EnzoFerreiraAguiar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 
 ### 🧠 Atualmente estou estudando
 
