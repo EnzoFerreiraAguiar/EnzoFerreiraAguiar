@@ -1,7 +1,7 @@
 ![Banner_GitHub](https://github.com/EnzoFerreiraAguiar/EnzoFerreiraAguiar/blob/master/Banner_GitHub.jpg)
 
 
-### Olá! Eu sou o Enzo Ferreira Aguiar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Olá! Eu sou o Enzo Ferreira Aguiar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
 
