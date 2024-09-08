@@ -13,7 +13,7 @@
 
 <a href="http://www.github.com/EnzoFerreiraAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoFerreiraAguiar&theme=dark&hide_border=false" /></a>
 
-<a href="https://github.com/EnzoFerreiraAguiar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFerreiraAguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+
 
 ### 🧠 Atualmente estou estudando
 
