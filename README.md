@@ -26,10 +26,10 @@
 ### ⚒️ Habilidades
 
 <div style="display align inline_block"><br/>
-  <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" />
-  <img align="center" height= "45" width= "55" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" />  
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
-  <img align="center" height= "45" width= "55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
 </div>
                                                                                       
 ### Como entrar em contato comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
