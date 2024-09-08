@@ -18,7 +18,7 @@
 ### 🧠 Atualmente estou estudando
 
 <div style="display align inline_block"><br/>
- <img align="center" height= "45" width= "55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" />
+ <img align="center" height= "50" width= "60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" />
 
 </div>
    
