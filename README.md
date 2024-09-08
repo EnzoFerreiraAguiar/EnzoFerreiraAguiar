@@ -3,9 +3,9 @@
 
 ## Olá! Eu sou o Enzo Ferreira Aguiar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 📚 Administrador de dados Jr.
+- 📚 Administrador de dados júnior entusiasta em análises e contribuir para padrões e políticas de gerenciamento de dados.
 
-- 🚀 Entusiasta de novos recursos e tecnologias. 
+- 🚀 Sempre aprendendo novos recursos e tecnologias. 
 
 ## Badges
 
@@ -23,7 +23,7 @@
 </div>
    
 
-### ⚒️ Tecnologias que tenho conhecimento
+### ⚒️ Habilidades
 
 <div style="display align inline_block"><br/>
   <img align="center" height= "45" width= "55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" />
