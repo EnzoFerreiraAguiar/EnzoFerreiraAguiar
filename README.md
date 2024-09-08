@@ -1,7 +1,7 @@
 ![Banner_GitHub](https://github.com/EnzoFerreiraAguiar/EnzoFerreiraAguiar/blob/master/Banner_GitHub.jpg)
 
 
-## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="29px">
 
 - 📚 Administrador de dados júnior entusiasta em análises e contribuir para padrões e políticas de gerenciamento de dados.
 
@@ -19,7 +19,6 @@
 
 <div style="display align inline_block"><br/>
  <img align="center" height= "50" width= "60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" />
-
 </div>
    
 
