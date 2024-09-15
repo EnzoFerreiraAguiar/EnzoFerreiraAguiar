@@ -3,7 +3,7 @@
 
 ## Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="29px">
 
-- 📚 Administrador de dados júnior entusiasta em análises e contribuir para padrões e políticas de gerenciamento de dados.
+- 📚 Administrador de dados Jr. entusiasta em análises e contribuir para padrões e políticas de gerenciamento de dados.
 
 - 🚀 Sempre aprendendo novos recursos e tecnologias. 
 
