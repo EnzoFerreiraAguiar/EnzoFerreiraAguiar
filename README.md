@@ -12,7 +12,7 @@
 
 * ☁️ **Cloud e Big Data:** Azure Data Factory, Databricks, Arquitetura Medallion (Bronze, Silver, Gold), Azure DevOps
 * 🗄️ **Bancos de Dados:** Oracle PL/SQL, PostgreSQL, SQL Server, MySQL, modelagem relacional, dimensional, ER/Studio
-* ⚙️ **DataOps & CI/CD:** Git, GitLab, Liquibase, SonarQube, utPLSQL, Database as Code
+* ⚙️ **DataOps e CI/CD:** Git, GitLab, Liquibase, SonarQube, utPLSQL, Database as Code
 * 🐍 **Linguagens e bibliotecas:** Python, SQL, Pandas, PySpark
 * 📊 **Business Intelligence:** Power BI e governança de dados
 
