@@ -45,7 +45,7 @@
 
 ### Certificações
 
-<a href="https://www.credly.com/badges/03deb74e-54f6-4bc6-b1bc-ec8ffd8999d5/public_url" target="_blank">
+<a href="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" target="_blank">
   <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" />
 </a>
 
