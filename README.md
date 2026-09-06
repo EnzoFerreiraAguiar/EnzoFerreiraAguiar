@@ -44,10 +44,10 @@
 ---
 
 ### Certificações
-
-<a href="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" target="_blank">
-  <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" />
-</a>
+<!-- DP-900 --> 
+<a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/" target="_blank">
+    <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" title="Microsoft Certified: Azure Data Fundamentals (DP-900)" />
+  </a>
 
 ---
 
