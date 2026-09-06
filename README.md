@@ -11,7 +11,7 @@
 ### Conhecimento técnico
 
 * ☁️ **Cloud e Big Data:** Azure Data Factory, Databricks, Arquitetura Medallion (Bronze, Silver, Gold), Azure DevOps
-* 🗄️ **Bancos de Dados:** Oracle PL/SQL, PostgreSQL, SQL Server, MySQL, modelagem relacional, dimensional, ER/Studio
+* 🗄️ **Bancos de Dados:** Oracle PL/SQL, PostgreSQL, SQL Server, MySQL, modelagem relacional, dimensional, ER/Studio Data Architect
 * ⚙️ **DataOps e CI/CD:** Git, GitLab, Liquibase, SonarQube, utPLSQL, Database as Code
 * 🐍 **Linguagens e bibliotecas:** Python, SQL, Pandas, PySpark
 * 📊 **Business Intelligence:** Power BI e governança de dados
@@ -21,7 +21,7 @@
 ### Foco em Engenharia de Dados e Analytics
 
 * **Engenharia de Dados:** desenvolvimento de pipelines de ingestão e transformação de alta performance e confiabilidade
-* **Analytics Engineering:** modelagem dimensional e estruturação de dados prontos para consumo de negócio
+* **Analytics Engineering:** modelagem dimensional e estruturação de dados para consumo de negócio
 * **Processamento Distribuído:** manipulação de grandes volumes de dados utilizando PySpark, Pandas e Databricks
 * **DataOps & Nuvem:** orquestração de fluxos em ambientes de cloud (Azure) com esteiras automatizadas de CI/CD
 
@@ -44,15 +44,19 @@
 ---
 
 ### Certificações
-<!-- DP-900 --> 
-<a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/" target="_blank">
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+
+  <!-- DP-900 -->
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification" target="_blank">
     <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" title="Microsoft Certified: Azure Data Fundamentals (DP-900)" />
   </a>
+</div>
 
 ---
 
 ### Entrar em contato comigo
 
 <a href="https://linkedin.com/in/enzo-ferreira-aguiar/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="35" height="35" title="LinkedIn" />
 </a>
