@@ -30,14 +30,24 @@
 ### Ferramentas
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+
+  <!-- Python -->
   <img src="https://camo.githubusercontent.com/066eb580e6a825850f05512b56811f3879dac7184e5169de6a23c2a7e70c9d2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="Python" width="40" height="40" title="Python" />
+  <!-- Pyspark -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40" title="PySpark" />
+  <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas" />
+  <!-- Azure -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" title="Azure" />
+  <!-- Databricks -->
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40" title="Databricks" />
+  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
+  <!-- GitLab -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" title="GitLab" />
+  <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" />
+  <!-- Oracle -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" title="Oracle" />
 </div>
 
@@ -51,6 +61,7 @@
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification" target="_blank">
     <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" title="Microsoft Certified: Azure Data Fundamentals (DP-900)" />
   </a>
+  
 </div>
 
 ---
