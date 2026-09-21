@@ -32,7 +32,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
 
   <!-- Python -->
-  <img src="https://camo.githubusercontent.com/066eb580e6a825850f05512b56811f3879dac7184e5169de6a23c2a7e70c9d2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="Python" width="40" height="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
   <!-- Pyspark -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40" title="PySpark" />
   <!-- Pandas -->
@@ -61,7 +61,7 @@
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification" target="_blank">
     <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" title="Microsoft Certified: Azure Data Fundamentals (DP-900)" />
   </a>
-  
+
 </div>
 
 ---
