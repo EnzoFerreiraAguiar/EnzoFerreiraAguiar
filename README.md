@@ -58,7 +58,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
 
   <!-- DP-900 -->
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/EnzoFerreiraAguiar-1810/5401055F5DCE9CBF?sharingId=A8140B225492037C" target="_blank">
     <img src="https://stvansolano.github.io/2022/09/22/Exam-passed-Microsoft-Azure-Data-Fundamentals-Certification/preview.webp" alt="DP-900 Badge" width="90" title="Microsoft Certified: Azure Data Fundamentals (DP-900)" />
   </a>
 
