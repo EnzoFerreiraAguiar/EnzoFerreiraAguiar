@@ -4,26 +4,26 @@
 
 </div>
 
-✨ Engenheiro de Dados transformando ecossistemas corporativos complexos em plataformas modernas de Analytics. Curto desenhar pipelines escaláveis, automatizar entregas e estruturar dados na nuvem para dar sustentação a negócios de alta criticidade.
+✨ Engenheiro de dados transformando ecossistemas corporativos complexos em plataformas modernas de analytics. Curto desenhar pipelines escaláveis, automatizar entregas e estruturar dados na nuvem para dar sustentação a negócios de alta criticidade.
 
 ---
 
 ### Conhecimento técnico
 
-* ☁️ **Cloud e Big Data:** Azure Data Factory, Databricks, Arquitetura Medallion (Bronze, Silver, Gold), Azure DevOps
-* 🗄️ **Bancos de Dados:** Oracle PL/SQL, PostgreSQL, SQL Server, MySQL, modelagem relacional, dimensional, ER/Studio Data Architect
+* ☁️ **Cloud e Big Data:** Azure Data Factory, Databricks, arquitetura Medallion (bronze, silver e gold), Azure DevOps
+* 🗄️ **Bancos de dados:** Oracle PL/SQL, PostgreSQL, SQL Server, MySQL, modelagem relacional, dimensional, ER/Studio Data Architect
 * ⚙️ **DataOps e CI/CD:** Git, GitLab, Liquibase, SonarQube, utPLSQL, Database as Code
-* 🐍 **Linguagens e bibliotecas:** Python, SQL, Pandas, PySpark
+* 🐍 **Linguagens e bibliotecas:** Python, Pandas, PySpark
 * 📊 **Business Intelligence:** Power BI e governança de dados
 
 ---
 
-### Foco em Engenharia de Dados e Analytics
+### Foco em engenharia de dados e analytics
 
-* **Engenharia de Dados:** desenvolvimento de pipelines de ingestão e transformação de alta performance e confiabilidade
+* **Engenharia de dados:** desenvolvimento de pipelines de ingestão e transformação de alta performance e confiabilidade
 * **Analytics Engineering:** modelagem dimensional e estruturação de dados para consumo de negócio
-* **Processamento Distribuído:** manipulação de grandes volumes de dados utilizando PySpark, Pandas e Databricks
-* **DataOps & Nuvem:** orquestração de fluxos em ambientes de cloud (Azure) com esteiras automatizadas de CI/CD
+* **Processamento distribuído:** manipulação de grandes volumes de dados utilizando PySpark, Pandas e Databricks
+* **DataOps e nuvem:** orquestração de fluxos em ambientes de cloud (Azure) com esteiras automatizadas de CI/CD
 
 ---
 
